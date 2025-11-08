@@ -4,7 +4,7 @@ A simple hash identifying python script
 
 ## Screenshot
 
-![App Screenshot](https://imgur.com/25ged45.png)
+![App Screenshot](https://i.ibb.co.com/WjqJFg3/Screenshot-20251108-094711.png)
 
 ## Installation
 
